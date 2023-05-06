@@ -6,3 +6,5 @@
   - Contains code to compute memorability scores (Exp 1A and 2B) and then split-half consistency analyses (Shikhar's contribution)
 - [permutation_testing.ipynb](permutation_testing.ipynb)
   - Contains permutation test analyses (Amal's contribution)
+- [project.ipynb](project.ipynb)
+  - Contains linear regression test analyses (Atharva's contribution)
